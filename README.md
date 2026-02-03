@@ -9,16 +9,12 @@ The goal is to understand the complex relationships between mix design variables
 
 ### Main Analysis
 - **FINAL PROJECT.ipynb**: The primary Jupyter Notebook containing the full analysis, literature research, data visualization, and predictive modeling.
-- **FINAL PROJECT.html / Final Project.pdf**: Exported versions of the final report for easy reading.
 
 ### Data
 - **Concrete Data.csv**: The dataset used for analysis, containing component measurements and compressive strength results.
-- **Lubbock_weather.csv** & **USA_Housing.csv**: Additional datasets used in supplementary regression exercises.
 
-### Supplementary Scripts & Notebooks
+### Supplementary Scripts
 - **DiagnosticPlotsScript.py**: Python script for generating diagnostic plots to evaluate model performance.
-- **Lab23_Inference.ipynb** & **Lab23_Prediction.ipynb**: Lab notebooks focusing on statistical inference and prediction techniques.
-- **Linear Regression/**: A folder containing specific linear and polynomial regression experiments.
 
 ## Key Technologies
 - **Python**: Primary programming language.
